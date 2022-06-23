@@ -1,0 +1,26 @@
+.pro-qty { /* pro-qty 클래스가 들어가는 태그에 적용되는 CSS  */
+    background: transparent;
+    border-radius: 0px;
+    font-size: 13px;
+    line-height: 38px;
+    color: #777777;
+    z-index: 0;
+  }
+  .pro-qty input{ /* pro-qty 클래스안에있는 input 태그에 적용되는 CSS  */
+    border: 1px solid #2b3146;
+    background: transparent;
+    font-size: 13px;
+    width: 60px;
+    text-align: center;
+    color: black;
+  }
+  
+  .pro-qty div{ /* pro-qty 클래스안에있는 div 태그에 적용되는 CSS  */
+      border: 1px solid #2b3146;
+      width: 30px;
+      text-align: center;
+      cursor: pointer;
+      color: black;
+      font-size: 20px;
+      letter-spacing: 0.4px;
+  }
