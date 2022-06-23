@@ -1,0 +1,12 @@
+.morning {
+    background: red;
+    /*12시가 안지나면 id가 hello인 태그는 백그라운드가 red로 바뀜*/
+    color: white;
+    padding: 10px;
+}
+.dinner {
+	background: blue;
+    /*12시가 지나면 id가 hello인 태그는 백그라운드가 blue로 바뀜*/
+    color: white;
+    padding: 10px;
+}
